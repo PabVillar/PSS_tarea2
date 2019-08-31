@@ -1,0 +1,3 @@
+/home/pvillar/Documentos/Primavera 2019/PSS/T2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pvillar/Documentos/Primavera 2019/PSS/T2/cmake-build-debug/CMakeFiles/T2.dir
+/home/pvillar/Documentos/Primavera 2019/PSS/T2/cmake-build-debug/CMakeFiles/edit_cache.dir

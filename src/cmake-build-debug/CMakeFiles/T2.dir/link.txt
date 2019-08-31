@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/T2.dir/main.c.o  -o T2 
